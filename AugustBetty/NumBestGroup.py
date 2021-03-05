@@ -1,6 +1,5 @@
 import pandas as pd
 import os 
-os.chdir("F:\论文-风控\model-code")
 from .ChiMergeGroup import *
 import numpy as np
 
