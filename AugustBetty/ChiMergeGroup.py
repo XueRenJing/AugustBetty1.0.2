@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 23 16:44:17 2021
 
-@author: 560350
-"""
 
 
 #!/usr/bin/env python3

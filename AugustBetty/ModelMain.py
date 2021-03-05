@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 26 09:22:08 2021
 
-@author: 560350
-"""
 from scipy.stats import scoreatpercentile
 import seaborn as sns
 import matplotlib.pyplot as plt
